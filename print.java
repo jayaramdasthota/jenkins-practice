@@ -4,5 +4,6 @@ public class print
 	{
 	 System.out.println("Successfully Printing...........");
 	 System.out.println("Ready to Deploy.................");
+	 System.out.println("Deploy Successfu................");
 	}
  }
